@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,aAAc,CACd,kBAAmB,CACnB,wBAAyB","file":"main.ef2f2cfc.chunk.css","sourcesContent":[".card {\n  max-width: 50%;\n  margin: 0 auto;\n  align-items: center;\n  background-color: #c6c6c6;\n}\n"]}
